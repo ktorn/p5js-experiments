@@ -2,7 +2,7 @@ let peer;
 let conn;
 
 
-let myPeerId = "thompson-capstone-v10-booth";
+let myPeerId = "thompson-capstone-v10-node";
 let otherPeerId = "thompson-capstone-v10-screen";
 
 
